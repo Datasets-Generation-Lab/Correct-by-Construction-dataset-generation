@@ -9,7 +9,7 @@ The goal of this dataset is to support simulation, analysis, and machine learnin
 ## System Specification
 The dataset relates to an energy-harvesting system based on the architecture illustrated in the visual below:
 
-![Energy-Harvesting System Architecture](https://github.com/Datasets-Generation-Lab/Correct-by-Construction-dataset-generation/blob/main/IoT%20system%20architecture.png)
+![Energy-Harvesting System Architecture]([https://github.com/Datasets-Generation-Lab/Correct-by-Construction-dataset-generation/blob/main/IoT%20system%20architecture.png](https://github.com/Datasets-Generation-Lab/Correct-by-Construction-dataset-generation/blob/main/IoT%20system%20Architecture.png))
 
 ## Usage
 ```python
